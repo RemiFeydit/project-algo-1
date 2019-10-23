@@ -1,6 +1,6 @@
 from dictionnaire import villes
 
-def salut(start, end):
+def calculRoutier(start, end):
     ## Gestion de la casse
     start = start.lower().capitalize()
     end = end.lower().capitalize()
@@ -32,11 +32,11 @@ def timeOut():
     return distanceTravelled
 
 print("Entrez la ville de départ : ")
-ntm = input()
+départ = input()
 print("Entrez la ville d'arrivée : ")
-fdp = input()
+arrivé = input()
 
 
 print("-------------------------")
-print(salut(ntm, fdp))
+print(calculRoutier(départ, arrivé))
 print("-------------------------")
