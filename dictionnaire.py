@@ -9,7 +9,8 @@ villes = {
         "Laluque Gare": 144,
         "Tulle": 227,
         "Bressuire": 253,
-        "Paris": 582
+        "Paris": 582,
+        "Biscarosse": 67
     },
     "Poitiers": {
         "Bordeaux": 250,
