@@ -51,7 +51,7 @@ def travelwithStep(numberOfCities):
     travelTime = 0
     totalDistance = 0
     for i in range(numberOfCities):
-        cities.append(input('Veuillez entrer la nom de la ville numéro {} :\n'.format(i+1)).lower().capitalize())
+        cities.append(input('Veuillez entrer la nom de la ville numéro {} :\n'.format(i+1)).lower().title())
     for i in range(numberOfCities-1):
         travelTime += calculRoutier(cities[i], cities[i+1])
         totalDistance += distance

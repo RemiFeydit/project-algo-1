@@ -21,7 +21,9 @@ villes = {
         "Ussel": 269,
         "Laluque Gare": 395,
         "Tulle": 209,
-        "Bressuire": 83
+        "Bressuire": 83,
+        "Paris": 339,
+        "Biscarosse": 325
     },
     "Pau": {
         "Bordeaux": 207,
@@ -32,7 +34,9 @@ villes = {
         "Ussel": 486,
         "Laluque Gare": 97,
         "Tulle": 426,
-        "Bressuire": 464
+        "Bressuire": 464,
+        "Paris": 793,
+        "Biscarosse": 203
     },
     "Limoges": {
         "Bordeaux": 221,
@@ -43,7 +47,9 @@ villes = {
         "Ussel": 149,
         "Laluque Gare": 366,
         "Tulle": 88,
-        "Bressuire": 202
+        "Bressuire": 202,
+        "Paris": 391,
+        "Biscarosse": 296
     },
     "Orthez": {
         "Bordeaux": 191,
@@ -55,6 +61,8 @@ villes = {
         "Laluque Gare": 50,
         "Tulle": 411,
         "Bressuire": 438,
+        "Paris": 767,
+        "Biscarosse": 135
     },
     "Royan": {
         "Bordeaux": 131,
@@ -66,6 +74,8 @@ villes = {
         "Laluque Gare": 266,
         "Tulle": 309,
         "Bressuire": 179,
+        "Paris": 508,
+        "Biscarosse": 195
     },
     "Ussel": {
         "Bordeaux": 288,
@@ -77,6 +87,8 @@ villes = {
         "Laluque Gare": 434,
         "Tulle": 63,
         "Bressuire": 352,
+        "Paris": 482,
+        "Biscarosse": 363
     },
     "Laluque Gare": {
         "Bordeaux": 144,
@@ -88,6 +100,8 @@ villes = {
         "Ussel": 434,
         "Tulle": 368,
         "Bressuire": 395,
+        "Paris": 482,
+        "Biscarosse": 92
     },
     "Tulle": {
         "Bordeaux": 227,
@@ -98,7 +112,9 @@ villes = {
         "Royan": 309,
         "Ussel": 63,
         "Laluque Gare": 368,
-        "Bressuire": 291
+        "Bressuire": 291,
+        "Paris": 697,
+        "Biscarosse": 221
     },
     "Bressuire": {
         "Bordeaux": 253,
@@ -109,6 +125,8 @@ villes = {
         "Royan": 179,
         "Ussel": 352,
         "Laluque Gare": 395,
-        "Tulle": 291
+        "Tulle": 291,
+        "Paris": 397,
+        "Biscarosse": 327
     }
 }
