@@ -1,4 +1,4 @@
-#Programme calcul routier
+# Programme calcul routier
 Lancer le programme
 Vérifier que script.py et dictionnaire.py sont dans le même dossier.
 
