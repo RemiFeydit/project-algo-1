@@ -2,7 +2,7 @@ from dictionnaire import villes
 from argparse import ArgumentParser
 
 parser = ArgumentParser()
-parser.add_argument("-nc", "--numbers-cities", metavar = '', help="Number of cities you want to go", type=int)
+parser.add_argument("-nc", "--numbers-cities", metavar = '', help="Number of cities you want to go", type=int, default=0)
 args = parser.parse_args()
 
 def calculRoutier(start, end):

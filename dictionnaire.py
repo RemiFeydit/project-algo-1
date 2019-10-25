@@ -128,5 +128,33 @@ villes = {
         "Tulle": 291,
         "Paris": 397,
         "Biscarosse": 327
+    },
+
+    "Paris": {
+        "Bordeaux": 582,
+        "Poitiers": 339,
+        "Pau": 793,
+        "Limoges": 391,
+        "Orthez": 767,
+        "Royan": 508,
+        "Ussel": 482,
+        "Laluque Gare": 482,
+        "Tulle": 697,
+        "Bressuire": 397,
+        "Biscarosse": 661
+    },
+
+    "Biscarosse": {
+        "Bordeaux": 67,
+        "Poitiers": 325,
+        "Pau": 203,
+        "Limoges": 296,
+        "Orthez": 135,
+        "Royan": 195,
+        "Ussel": 363,
+        "Laluque Gare": 92,
+        "Tulle": 221,
+        "Paris": 661,
+        "Bressuire": 327
     }
 }
